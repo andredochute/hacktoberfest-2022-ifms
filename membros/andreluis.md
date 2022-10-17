@@ -1,3 +1,5 @@
+<h1 align="left">Hello World! 🎯</h1>
+
 # André Luís 
 
 
@@ -19,7 +21,7 @@ Analista de suporte - Ganso sistemas
 
 ###
 
-<p align="left">Tecnologias estudadas:</p>
+<h1 align="left">Tecnologias estudadas:</h1>
 
 ###
 
